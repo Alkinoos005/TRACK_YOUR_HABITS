@@ -38,3 +38,5 @@ HTML5 (Semantic elements & accessible roles)
 CSS3 (CSS Custom Properties,Grid,Flexbox,Responsive Design)
 
 Vanilla JavaScript (ES6+,DOM manipulation,Event Delegation,localStorage)
+
+δSjekekdjdjd
